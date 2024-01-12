@@ -1,2 +1,2 @@
 # zhangli_code
-zhangli's r code and file 
+Data and code for pathogens AMF and N uptake paper
